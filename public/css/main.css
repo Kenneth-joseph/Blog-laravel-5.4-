@@ -1,0 +1,16 @@
+p{
+	color: blue;
+}
+
+.home-section{
+	background-image:linear-gradient(rgba(0, 0, 0, 0.3), rgba(0,0,0,0.3)),url("/images/lets.jpg");
+	background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    color:white; 
+}
+
+.intro{
+margin-top: 150px;
+padding-bottom: 20px;
+}
